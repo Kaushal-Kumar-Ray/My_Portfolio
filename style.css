@@ -623,9 +623,9 @@ nav ul li a:hover::after {
 
 /* Hover Effect */
 .skill-box:hover {
-    background: #00e1ff;
+    background: #828788;
     transform: scale(1.05);
-    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 15px 50px rgb(0, 0, 0);
 }
 
 /* Icon Styles */
